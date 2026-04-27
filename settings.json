@@ -7,7 +7,8 @@
   },
   "server": {
     "ip": "ghost24796.aternos.me",
-    "port": 43977,
+    "port":
+    ,
     "version": "1.21.1"
   },
   "position": {
